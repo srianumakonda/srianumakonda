@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hey there 👋
 
 ### Currently working on
 - Building a lane detection model from scratch using <a href="https://arxiv.org/abs/1505.04597">U-Net</a> and semantic segmentation.
 - Getting ready to do both udacity nanodegrees on autonomous vehicles :D
+- Starting a YouTube channel 👀
 
 ### Contact me 
 - <a href="https://www.linkedin.com/in/srianumakonda/">Linkedin</a>
