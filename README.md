@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 ### Currently working on
-- Building a lane detection model from scratch using <a href="https://arxiv.org/abs/1505.04597">UNET</a> and semantic segmentation.
+- Building a lane detection model from scratch using <a href="https://arxiv.org/abs/1505.04597">U-Net</a> and semantic segmentation.
 - Getting ready to start 2 udacity nanodegrees :D
 
 ### Contact me 
-- Linkedin
-- Twitter
+- <a href="https://www.linkedin.com/in/srianumakonda/">Linkedin</a>
+- <a href="https://twitter.com/srianumakonda">Twitter</a>
 - info@srianumakonda.com
 
 ### Miscellaneous
