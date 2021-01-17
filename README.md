@@ -5,7 +5,7 @@
 - Getting ready to do both udacity nanodegrees on autonomous vehicles :D
 - Starting a YouTube channel 👀
 
-### Contact me 
+### Connect with me
 - <a href="https://www.linkedin.com/in/srianumakonda/">Linkedin</a>
 - <a href="https://twitter.com/srianumakonda">Twitter</a>
 - info@srianumakonda.com
