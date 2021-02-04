@@ -2,8 +2,8 @@
 
 ### Currently working on
 - Building a lane detection model from scratch using <a href="https://arxiv.org/abs/1505.04597">U-Net</a> and semantic segmentation (take a look <a href="https://github.com/srianumakonda/Lane-Detection">here</a>).
-- Getting ready to do both udacity nanodegrees on autonomous vehicles :D
-- Starting a YouTube channel 👀
+- Doing the Intro to Self Driving Car nanodegree
+- Building a Skin Cancer Detection model on <a href="https://www.youtube.com/watch?v=aYB2_GcwLvE">YouTube</a>
 
 ### Connect with me
 - <a href="https://www.linkedin.com/in/srianumakonda/">Linkedin</a>
