@@ -2,7 +2,7 @@
 
 ### Currently working on
 - The Become a Self Driving Car Engineer Nanodegree w/ Udacity
-![image](https://twitter.com/i/status/1366535319647121412)
+![image](https://twitter.com/i/status/1366535319647121412.gif)
 - 
 
 ### Connect with me
