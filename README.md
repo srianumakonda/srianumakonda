@@ -4,6 +4,7 @@
 - The Become a Self Driving Car Engineer Nanodegree w/ Udacity. Projects that I've built 👇👇👇. Take a look at the code <a href="https://github.com/srianumakonda/Become-a-Self-Driving-Car-Engineer">here</a>.
 ![image](lane_lines.gif)
 ![image](advlane.gif)
+![image](beclone.gif)
 - Running my <a href="https://www.youtube.com/channel/UC-u9uBbfrqDX0MU8UGoWtvQ">YouTube channel!</a> Next tutorial series TBD (contact me below if you've got any ideas)
 
 ### Connect with me
