@@ -4,13 +4,20 @@
 
 ### What I've built
 - A self-driving car
+
 ![image](self-drive.gif)
+
 - Played around with imitation learning
+
+
 ![image](beclone.gif)
+
 - Created my own alternative to YOLO by leveraging the HIstogram of Oriented Gradients and ML algorithms such as SVMs to create an Object Detection pipeline
+
+
 ![image](objdet.gif)
 
-![image](Become a Self Driving Car Engineer.jpg)
+![image](sd.jpg)
 
 ### Connect with me
 - <a href="https://www.linkedin.com/in/srianumakonda/">Linkedin</a>
