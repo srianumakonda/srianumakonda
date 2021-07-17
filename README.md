@@ -1,23 +1,13 @@
 ## Hey there 👋
 
-14 and have built my own self-driving car. Graduated from the Udacity Become a Self-Driving Car nanodegree within 2.5 months and have become a certified engineer.
+14yo self-driving car engineer, built my own self-driving car, am a certified self-driving car enigneer from Udacity's Become a Self-Driving Car Engineer nanodegree, all within 3 months.
 
-### What I've built
-- A self-driving car
+## Now...
 
-![image](self-drive.gif)
+- Currently building an academic paper on Convolutional-LSTMs for lane detection along with various other techniques (shoot me an email for more info)
+- Researching in end-to-end driving by simply using cameras. Figuring out my way through right now and will be building something on that subject soon.
+- Always excited and looking to meet new people in ML, Autonomous Veichles, and Computer Vision 
 
-- Played around with imitation learning
-
-
-![image](beclone.gif)
-
-- Created my own alternative to YOLO by leveraging the HIstogram of Oriented Gradients and ML algorithms such as SVMs to create an Object Detection pipeline
-
-
-![image](objdet.gif)
-
-![image](sd.jpg)
 
 ### Connect with me
 - <a href="https://www.linkedin.com/in/srianumakonda/">Linkedin</a>
