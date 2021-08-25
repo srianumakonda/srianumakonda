@@ -16,6 +16,11 @@
 
 ### Miscellaneous
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srianumakonda&show_icons=true&locale=en&layout=compact" alt="srianumakonda" /></p>
+<p align="center"   >
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srianumakonda&show_icons=true&locale=en" alt="srianumakonda" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srianumakonda&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srianumakonda&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+
+</p>     
+
