@@ -4,8 +4,8 @@
 
 ## Now...
 
-- Currently building an academic paper on Convolutional-LSTMs for lane detection along with various other techniques (shoot me an email for more info)
-- Researching in end-to-end driving by simply using cameras. Figuring out my way through right now and will be building something on that subject soon.
+- Currently pursuing a project on Convolutional-LSTMs for lane detection along with various other techniques (shoot me an email for more info)
+- Researching with using GANs as a method for data generation in edge case scenario's i.e. parking, overtaking a car, etc.
 - Always excited and looking to meet new people in ML, Autonomous Veichles, and Computer Vision 
 
 
