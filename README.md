@@ -4,8 +4,8 @@
 
 ## Now...
 
-- Currently pursuing a project on Convolutional-LSTMs for lane detection along with various other techniques (shoot me an email for more info)
-- Researching with using GANs as a method for data generation in edge case scenario's i.e. parking, overtaking a car, etc.
+- Currently building <a href="https://github.com/srianumakonda/DataGAN">DataGAN: A way to train self-driving tech using synthetic data.</a> Code open-sourced and available for replication on Github!
+- Second year activating @tks.world
 - Always excited and looking to meet new people in ML, Autonomous Veichles, and Computer Vision 
 
 
