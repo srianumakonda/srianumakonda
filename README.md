@@ -4,7 +4,7 @@
 
 ## Now...
 
-- Currently building <a href="https://github.com/srianumakonda/DataGAN">DataGAN: A way to train self-driving tech using synthetic data.</a> Code open-sourced and available for replication on Github!
+- Currently focusing on end2end learning for self-driving vehicles. Planning to build my own self-driving car, fully through Computer Vision algo's. <a href="https://srianumakonda.notion.site/End2End-Self-Driving-a3e063810d164ea982a4157b0fc8e403">Here's the project abstract</a> + specifications on waht I'm building. 
 - Second year activating @tks.world
 - Always excited and looking to meet new people in ML, Autonomous Veichles, and Computer Vision 
 
