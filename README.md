@@ -4,7 +4,7 @@
 
 ## Now...
 
-- Currently focusing on end2end learning for self-driving vehicles. Planning to build my own self-driving car, fully through Computer Vision algo's. <a href="https://srianumakonda.notion.site/End2End-Self-Driving-a3e063810d164ea982a4157b0fc8e403">Here's the project abstract</a> + specifications on waht I'm building. 
+- Currently focusing on end2end learning for self-driving vehicles. Planning to build my own self-driving car, fully through Computer Vision algo's. <a href="https://srianumakonda.notion.site/End2End-Self-Driving-a3e063810d164ea982a4157b0fc8e403">Here's the project abstract</a> + specifications on what I'm building. 
 - Second year activating @tks.world
 - Always excited and looking to meet new people in ML, Autonomous Veichles, and Computer Vision 
 
