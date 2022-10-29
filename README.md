@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-15yo self-driving car engineer, built my own self-driving car, am a certified self-driving car enigneer from Udacity's Become a Self-Driving Car Engineer nanodegree, all within 3 months.
+16yo self-driving car engineer, built my own self-driving car, am a certified self-driving car enigneer from Udacity's Become a Self-Driving Car Engineer nanodegree, all within 3 months.
 
 ## Now...
 
