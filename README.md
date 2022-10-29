@@ -12,7 +12,6 @@
 ### Connect with me
 - <a href="https://www.linkedin.com/in/srianumakonda/">Linkedin</a>
 - <a href="https://twitter.com/srianumakonda">Twitter</a>
-- info@srianumakonda.com
 
 ### Miscellaneous
 
